@@ -1,6 +1,8 @@
 # Transcrição e Geração de Vídeo F5
 
-[![Exemplo audio gerado](./video_gen/out/thumbnail.jpg)](./video_gen/out/audio-composition.mp4)
+
+
+https://github.com/user-attachments/assets/2b51f4d6-942b-43dc-b3a5-2ab041b31878
 
 Este repositório contém:
 
